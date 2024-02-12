@@ -15,6 +15,9 @@ To get started with Spiderman animation in Blender:
 2. **Clone or Download this Repository**: Clone or download this repository to access the Spiderman assets and resources.
 
 3. **Open Blender**: Launch Blender and open the project file provided in this repository to access the pre-configured Spiderman animation environment.
+## Download Spiderman Assets
+
+You can download the Spiderman assets [here]([https://drive.google.com/drive/folders/1Ct3UdwtrkHRQDLa3dDTV25-1NH4ULXmb?usp=sharing]).
 
 ## Features
 
